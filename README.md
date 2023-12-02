@@ -2,7 +2,7 @@
 <h3 align="center">iwbwy</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arclops&label=Profile%20views&color=0e75b6&style=flat" alt="arclops" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arclops&theme=discord" alt="arclops" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arclops&theme=" alt="arclops" /></a> </p>
 
 - 🔭 I’m currently working on [FaMaS](https:/github.com/arclops/FaMaS)
 
