@@ -1,4 +1,4 @@
-![plink-cat-plink](https://github.com/arclops/arclops/assets/93089746/5e7f4e4f-2c2e-4484-8717-eeb2f0fc3b72)![banner](https://github.com/arclops/arclops/assets/93089746/eb2174ab-5e00-40c0-be50-3bcd3e4352c3)
+![banner](https://github.com/arclops/arclops/assets/93089746/eb2174ab-5e00-40c0-be50-3bcd3e4352c3)
 <h1 align="center">Hi, I'm Nachiketha</h1>
 <h3 align="center">iwbwy</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arclops&label=Profile%20views&color=0e75b6&style=flat" alt="arclops" /> </p>
