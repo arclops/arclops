@@ -1,8 +1,7 @@
+![banner](https://github.com/arclops/arclops/assets/93089746/eb2174ab-5e00-40c0-be50-3bcd3e4352c3)
 <h1 align="center">Hi, I'm Nachiketha</h1>
 <h3 align="center">iwbwy</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arclops&label=Profile%20views&color=0e75b6&style=flat" alt="arclops" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arclops&theme=" alt="arclops" /></a> </p>
 
 - 🔭 I’m currently working on [FaMaS](https:/github.com/arclops/FaMaS)
 
