@@ -1,4 +1,4 @@
-<h1 align="center">Doo ba dooba dooba doo Ba dooba dooba doo doo doo</h1>
+<h1 align="center">Hi, I'm Nachiketha</h1>
 <h3 align="center">iwbwy</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arclops&label=Profile%20views&color=0e75b6&style=flat" alt="arclops" /> </p>
 
@@ -36,18 +36,7 @@
 </p>
 
 <h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arclops&layout=compact&theme=discord-old-blurple" alt=arclops />
-
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=arclops&show_icons=true&locale=en&theme=discord-old-blurple" alt="arclops" /></p>
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=arclops&theme=discord-old-blurple" alt="arclops" /></p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
-<div align="center">
-<a href="https://github.com/arclops">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=arclops&theme=discord_old_blurple" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arclops&theme=discord_old_blurple" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arclops&theme=discord_old_blurple" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arclops&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arclops&theme=2077" height="180em" />
-</div>
